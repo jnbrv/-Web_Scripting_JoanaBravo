@@ -1,7 +1,7 @@
 # Web Scripting - Joana Bravo
 
 ## Description
-This repository contains web scripting projects and exercises created by Joana Bravo. It showcases practical implementations of web development concepts including HTML, CSS, and JavaScript.
+This repository contains web scripting projects and exercises. It showcases practical implementations of web development concepts including HTML, CSS, and JavaScript.
 
 ## Contents
 - Web scripting projects
